@@ -1,0 +1,37 @@
+{
+  "name": "devnode",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./lib/devnode",
+  "bin": "./bin/devnode.js",
+  "homepage": "https://github.com/luscus/devnode",
+  "author": "https://github.com/luscus/devnode/graphs/contributors",
+  "bugs": "https://github.com/luscus/devnode/issues",
+  "description": "Node binary wrapper providing the combined features of 'modemon' and 'npm link'",
+  "keywords": [
+    "dev",
+    "require",
+    "development",
+    "tools"
+  ],
+  "dependencies": {
+    "clone": "^1.0",
+    "commander": "^2.9",
+    "fs-crawler": "^0",
+    "termcolor": "^0.2"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "gulp": "^3.9.0",
+    "gulpfile.basics": "^0",
+    "package.root": "^1",
+    "mocha": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luscus/devnode.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  }
+}
