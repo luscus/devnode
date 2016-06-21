@@ -45,9 +45,6 @@ Running one of the following commands
 Will start YourProject loading dependencies as follows
 
 <pre>
-   $ WORKPLACE/YourProject: devnode index.js
-
-
    WORKPLACE
       |_ YourProject
       |    |_ someLib.js                    (watched)
