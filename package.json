@@ -23,7 +23,7 @@
   "devDependencies": {
     "chai": "*",
     "gulp": "^3.9.0",
-    "gulpfile.basics": "^0",
+    "gulpfile.basics": "^0.0.8",
     "package.root": "^1",
     "mocha": "*"
   },
