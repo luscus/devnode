@@ -17,7 +17,7 @@
   "dependencies": {
     "clone": "^2.1.0",
     "commander": "^2.9",
-    "fs-crawler": "^0",
+    "fs-crawler": "^0.0.4",
     "termcolor": "^0.2"
   },
   "devDependencies": {
