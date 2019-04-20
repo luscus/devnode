@@ -24,7 +24,7 @@
     "chai": "*",
     "gulp": "^3.9.0",
     "gulpfile.basics": "^0",
-    "package.root": "^1",
+    "package.root": "^1.0.3",
     "mocha": "*"
   },
   "repository": {
