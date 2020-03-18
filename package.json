@@ -25,7 +25,7 @@
     "gulp": "^3.9.0",
     "gulpfile.basics": "^0",
     "package.root": "^1",
-    "mocha": "*"
+    "mocha": ">=7.1.1"
   },
   "repository": {
     "type": "git",
